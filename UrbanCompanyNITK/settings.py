@@ -28,8 +28,8 @@ SECRET_KEY = '3*^yg-_y@fjwi%vv)ptrr@p#enet1mp%7g=_@rvamzz3zqzbe+'
 DEBUG = True
 
 # Use in Production
-# ALLOWED_HOSTS = ['urbancompany-nitk.herokuapp.com']
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['humanity-helpr.herokuapp.com']
+# ALLOWED_HOSTS = []
 
 
 # Application definition
